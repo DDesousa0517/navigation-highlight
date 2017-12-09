@@ -42,6 +42,7 @@ h1 {
 .nav a {
   padding: .2em .5em .3em;
   color: #fff;
+  font-size: 1.125rem;
   text-decoration: none;
   background-color: #b2a212;
   display: inline-block;
@@ -51,4 +52,21 @@ h1 {
 
 .nav a:hover {
   background-color: #cc1465;
+}
+
+main {
+  margin: .3em;
+}
+
+h2 {
+  font-size: 1.875rem;
+  color: #b20953;
+  font-family: "Sigmar One";
+}
+
+footer {
+  margin: 0;
+  padding: .75em;
+  background-color: #ffe500;
+  text-align: center;
 }
