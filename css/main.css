@@ -16,6 +16,7 @@ body {
 }
 
 header {
+  padding: .75em;
   background-color: #ffe500
 }
 
@@ -42,8 +43,12 @@ h1 {
   padding: .2em .5em .3em;
   color: #fff;
   text-decoration: none;
-  background-color: #b20953;
+  background-color: #b2a212;
   display: inline-block;
   border-radius: 4px;
   text-align: center;
+}
+
+.nav a:hover {
+  background-color: #cc1465;
 }
